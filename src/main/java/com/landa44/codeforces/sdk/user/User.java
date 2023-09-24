@@ -1,7 +1,9 @@
 package com.landa44.codeforces.sdk.user;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.landa44.codeforces.sdk.OptionalStringDeserializer;
+
+import com.landa44.codeforces.sdk.util.OptionalStringDeserializer;
+
 import java.util.Optional;
 
 public class User {

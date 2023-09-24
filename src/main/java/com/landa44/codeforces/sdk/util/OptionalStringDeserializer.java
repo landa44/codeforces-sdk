@@ -1,4 +1,4 @@
-package com.landa44.codeforces.sdk;
+package com.landa44.codeforces.sdk.util;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;
